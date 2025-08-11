@@ -10,4 +10,7 @@ git commit -m "訊息內容" -> 建立還原點。
 git log -> 查看日誌。
 git log --oneline -> 簡化版查看日誌。
 git diff <還原標號> -- <檔案名稱> -> 比較版本差異。
-git checkout <還原標號> -- <檔案名稱>。-> 將檔案還原至之前版本，此變動同樣要重新提交。
+git checkout <還原標號> -- <檔案名稱> -> 將檔案還原至之前版本，此變動同樣要重新提交。
+git remote add origin <Github網址> -> 連結Github儲存庫。
+git branch -M main -> 變更本地分支名稱。
+git push -u origin main -> 將本地檔案push到雲端上。
