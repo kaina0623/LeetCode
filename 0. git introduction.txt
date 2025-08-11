@@ -6,4 +6,4 @@
 指令：
 git status -> 查看檔案狀態。
 git add "name" -> 變成已追蹤。
-git commit -m "訊息內容" -> 建立還原點
+git commit -m "訊息內容" -> 建立還原點。
