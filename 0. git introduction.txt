@@ -4,8 +4,10 @@
 - Committed 已提交
 
 指令：
-git status -> 查看檔案狀態。
-git add "name" -> 變成已追蹤。
-git commit -m "訊息內容" -> 建立還原點。
-git log -> 查看日誌。
-git log --oneline -> "簡化版查看日誌"。
+git status                              -> 查看檔案狀態。
+git add <檔案名稱>                      -> 變成已追蹤。
+git commit -m "訊息內容"                -> 建立還原點。
+git log                                 -> 查看日誌。
+git log --oneline                       -> 簡化版查看日誌。
+git diff <還原標號> -- <檔案名稱>       -> 比較版本差異。
+git checkout <還原標號> -- <檔案名稱>。  -> 將檔案還原至之前版本。
