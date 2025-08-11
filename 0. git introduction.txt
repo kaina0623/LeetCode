@@ -1,3 +1,5 @@
+教學影片：https://www.youtube.com/watch?v=FKXRiAiQFiY
+
 - Untracked 未追蹤
 - Tracked 已追蹤
 - Staged 已暫存
