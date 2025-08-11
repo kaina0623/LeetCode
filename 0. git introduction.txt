@@ -1,0 +1,9 @@
+- Untracked 未追蹤
+- Tracked 已追蹤
+- Staged 已暫存
+- Committed 已提交
+
+指令：
+git status -> 查看檔案狀態。
+git add "name" -> 變成已追蹤。
+git commit -m "訊息內容" -> 建立還原點
